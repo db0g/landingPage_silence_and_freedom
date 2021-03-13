@@ -14,7 +14,7 @@ h1, h3, p{
 }
 /*background_main*/
 .background_main{
-    background-image: url("../img/nature.jpeg");
+    background-image: url("img/nature.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
